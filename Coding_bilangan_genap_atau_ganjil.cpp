@@ -12,3 +12,5 @@ int main(){
 		 else {cout << "Bilangan ganjil" << endl;
 		 }
 }
+
+//cek perubahana//
